@@ -9,5 +9,6 @@ public class Aula3 {
         produtos.put(78930, "Preço R$12,00(Chocolate)");
 
         System.out.println(produtos);
+        System.out.println(produtos);
     }
 }
